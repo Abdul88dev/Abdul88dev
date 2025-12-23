@@ -66,7 +66,6 @@ Designed and implemented a scalable Conditional Access framework following **Zer
 - Break-glass account strategy
 - Device compliance & named locations
 
-📁 `entra-id/conditional-access`
 
 ---
 
@@ -80,7 +79,6 @@ Built a least-privilege RBAC model across multiple Azure subscriptions.
 - Subscription-level isolation
 - Audit-ready access design
 
-📁 `azure/rbac-governance`
 
 ---
 
@@ -94,7 +92,6 @@ End-to-end CyberArk PAM implementation simulating an enterprise environment.
 - Automated password rotation
 - Session recording & monitoring
 
-📁 `cyberark/pam-lab`
 
 ---
 
@@ -108,7 +105,6 @@ PowerShell scripts automating day-to-day IAM operations.
 - Access review exports
 - Privileged account audits
 
-📁 `automation/powershell`
 
 ---
 
@@ -119,7 +115,6 @@ PowerShell scripts automating day-to-day IAM operations.
 - CyberArk PAM Reference Design
 - Privileged Access Request Flow
 
-📁 `architecture/diagrams`
 
 ---
 
@@ -130,7 +125,7 @@ PowerShell scripts automating day-to-day IAM operations.
 - Break-glass & emergency access strategy
 - IAM incident response playbooks
 
-📁 `docs`
+
 
 ---
 
