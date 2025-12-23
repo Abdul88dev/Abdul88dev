@@ -12,7 +12,7 @@
 ![PowerShell](https://img.shields.io/badge/Automation-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Enterprise Ready](https://img.shields.io/badge/Enterprise-Ready-success)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen)
-![Relocation](https://img.shields.io/badge/Relocation-Saudi%20Arabia-important)
+![Relocation](https://img.shields.io/badge/Relocation-GulfCountries-important)
 
 ---
 
@@ -51,6 +51,7 @@ I’m an **Sr. IAM Engineer** with hands-on experience designing, implementing, 
 - Identity lifecycle automation
 - Role assignment audits & cleanup
 - Compliance and access review reporting
+- Logic Apps en custom extensions
 
 ---
 
@@ -105,6 +106,8 @@ PowerShell scripts automating day-to-day IAM operations.
 - Access review exports
 - Privileged account audits
 
+  
+
 
 ---
 
@@ -114,6 +117,8 @@ PowerShell scripts automating day-to-day IAM operations.
 - Azure IAM Governance Model
 - CyberArk PAM Reference Design
 - Privileged Access Request Flow
+- StandBy System for SOC team (ABAC)
+- Least privileged DomainAdmin (ABAC)
 
 
 ---
